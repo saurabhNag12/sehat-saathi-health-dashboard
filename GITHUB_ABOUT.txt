@@ -1,0 +1,10 @@
+Repository name: sehat-saathi-offline
+
+Description:
+Offline-first clinic workflow demonstration with a local OPD queue, IndexedDB records, and a PWA service worker. Fictional data only; no backend or AI APIs.
+
+Topics:
+offline-first, pwa, react, vite, indexeddb, clinic-workflow, student-project
+
+Website:
+Add your actual Vercel deployment URL after deploying. Do not invent or enter a URL before deployment.

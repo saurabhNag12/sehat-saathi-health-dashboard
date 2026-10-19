@@ -1,0 +1,10 @@
+{
+  "name": "Sehat Saathi Offline",
+  "short_name": "Sehat Saathi",
+  "description": "Offline-first clinic workflow demonstration using fictional data.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f2",
+  "theme_color": "#286747",
+  "icons": [{"src": "/icons/sehat-saathi.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
+}
